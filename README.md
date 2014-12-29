@@ -4,6 +4,7 @@ xPL-ESP8266
 ##Sample xPL program for the ESP8266
 
 This small program illustrates how to setup a development environment under Windows, optionally using Microsoft Visual Studio as an IDE.
+For more details, refer to the wiki document, [Getting started](wiki/Getting-started)
 
 ###What is an ESP8266?
 The ESP8266 is a small, inexpensive (~$3) chipset designed to connect embedded processors to a Wifi network. Its small size and low price make it ideal for IoT (Internet of Things) applications. Out of the box, it is designed to communicate with a host processor using a simple serial interface, using modem-like ‘AT’ commands. Many users have used this to interface with Arduinos and similar processors.
